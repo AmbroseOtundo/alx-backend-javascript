@@ -9,7 +9,6 @@ const employees = {
 };
 
 const report = createReportObject(employees);
-
 const reportWithIterator = createIteratorObject(report);
 
 for (const item of reportWithIterator) {

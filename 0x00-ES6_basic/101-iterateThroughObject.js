@@ -8,6 +8,5 @@ export default function iterateThroughObject(reportWithIterator) {
       employees += value;
     }
   }
-
   return employees;
 }

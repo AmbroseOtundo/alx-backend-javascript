@@ -7,6 +7,5 @@ export default function createIteratorObject(report) {
     }
   }
   /* eslint-enable no-unused-vars */
-
   return workers;
 }
