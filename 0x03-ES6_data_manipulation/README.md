@@ -1,7 +1,7 @@
 # 0x11. ES6 data manipulation
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+
 :bookmark: filter | javascript | map | reduce | set | weak link
 
 ## Resources
@@ -36,6 +36,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 10. More map data structure
 * [x] 11. Weak link data structure
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
